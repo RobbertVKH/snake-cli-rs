@@ -1,0 +1,8 @@
+[package]
+name = "snake_the_sequel"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+crossterm = "0.17"
+rand = "0.7.3"
